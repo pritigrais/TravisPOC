@@ -1,1 +1,1 @@
-print("Hello world test from Travis CI_test1")
+print("Hello world test from Travis")
